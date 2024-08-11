@@ -6,7 +6,7 @@ I'm a passionate Software Tester currently looking for new opportunities. I have
 ---
 
 
-## 📁 Portfolio:
+📁 Portfolio:
 
 You can check out my projects and contributions [here](https://github.com/sebastianlewak/Tester_Portfolio).
 
@@ -14,7 +14,7 @@ You can check out my projects and contributions [here](https://github.com/sebast
 ---
 
 
-## Technologies:
+🛠️Technologies:
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
