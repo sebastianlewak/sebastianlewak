@@ -3,9 +3,14 @@
 I'm a passionate Software Tester currently looking for new opportunities. I have experience in various testing methodologies and a keen eye for detail, ensuring that software functions smoothly and meets all requirements.
 
 
+---
+
+
 📁 Portfolio:
 You can check out my projects and contributions [here](https://github.com/sebastianlewak/Tester_Portfolio).
 
+
+---
 
 
 Technologies 
