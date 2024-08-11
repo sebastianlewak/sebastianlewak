@@ -7,6 +7,7 @@ I'm a passionate Software Tester currently looking for new opportunities. I have
 
 
 📁 Portfolio:
+
 You can check out my projects and contributions [here](https://github.com/sebastianlewak/Tester_Portfolio).
 
 
